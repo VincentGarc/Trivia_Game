@@ -11,9 +11,9 @@ Each time you run the game chose 10 new questions
 
 ---
 ### Libraries
-request
-html
-tkinter
+- request
+- html
+- tkinter
 
 
 
